@@ -17,13 +17,13 @@ I hope it can help you on your genome assembly journey!
 
 Software for assembling scaffolds with Hi-C data:
 
-(https://github.com/aidenlab/juicer)
+https://github.com/aidenlab/juicer
 
-(https://github.com/aidenlab/3d-dna)
+https://github.com/aidenlab/3d-dna
 
 Software for building chromosomes with genetic maps:
 
-(http://catchenlab.life.illinois.edu/chromonomer/)
+http://catchenlab.life.illinois.edu/chromonomer/
 
 My blog post on this topic:
 
