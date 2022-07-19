@@ -26,4 +26,4 @@ http://catchenlab.life.illinois.edu/chromonomer/
 
 My blog post on this topic:
 
-TBA
+https://joseph-vineland.github.io/2022/07/19/Self-Correcting-Genome-Assembly.html
