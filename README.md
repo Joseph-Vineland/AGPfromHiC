@@ -12,6 +12,7 @@ Usage: `perl mkAgpFileFromHiC.pl <assembly.FINAL.fasta> <assembly.FINAL.assembly
 
 I hope it can help you on your genome assembly journey!
 
+#### External Links
 
 Software for assembling scaffolds with Hi-C data:
 
