@@ -1,4 +1,4 @@
-### Self-Correcting Genome Assembly with Hi-C data and Genetic Maps
+# Self-Correcting Genome Assembly with Hi-C data and Genetic Maps
 
 The juicer/3d-dna pipeline takes contigs and assembles scaffolds with the help of Hi-C data.  The Chromonomer software take scaffolds and assembles chromosomes with the help of genetic linkage maps.
 
