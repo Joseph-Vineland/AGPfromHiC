@@ -20,7 +20,7 @@ my @seq_array;
 while ( my $seq = $seqio->next_seq() ) {
     push @dna_array, $seq->seq();
     push @names_array, $seq->id();
-    push @seq_array,$seq;
+    push @seq_array, $seq;
 }
 
 ## parse .assembly file in order to build an AGP file
