@@ -10,6 +10,8 @@ This script generates an AGP file from the output of the juicer/3d-dna pipeline.
 
 Usage: `perl mkAgpFileFromHiC.pl <assembly.FINAL.fasta> <assembly.FINAL.assembly>`
 
+Note: Requires BioPerl. `sudo apt-get install -y bioperl` if you don't already have BioPerl.
+
 I hope it can help you on your genome assembly journey!
 
 #### External Links
